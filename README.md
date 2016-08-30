@@ -3,7 +3,7 @@ Records and play back typing in a text input element
 
 
 ### Usage
-```
+```javascript
 var TypeRecorder = require("./TypeRecorder");
 var TypePlayer = require("./TypePlayer");
 
